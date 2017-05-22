@@ -17,5 +17,4 @@ var Bee = function () {
 // a job property that is set to keep on growing
 
 Bee.prototype = Object.create(Grub.prototype);
-
 Bee.prototype.constructor = Bee;

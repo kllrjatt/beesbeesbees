@@ -10,6 +10,5 @@ var Grub = function() {
 
 // an eat method
 Grub.prototype.eat = function () {
-
 };
 
